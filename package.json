@@ -109,13 +109,13 @@
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.31.7",
+    "eslint-plugin-react": "^7.31.8",
     "now": "^16.7.0",
     "npm-check-updates": "^12.5.12",
     "prettier": "2.7.1"
   },
   "dependencies": {
-    "@cloudflare/wrangler": "^1.19.12",
+    "@cloudflare/wrangler": "^1.19.13",
     "@sentry/browser": "^6.19.7",
     "@use-hook/use-cookie": "^0.1.4",
     "bootstrap": "^4.6.2",
@@ -127,7 +127,7 @@
     "jquery": "^3.6.1",
     "js-yaml": "^3.14.1",
     "js-yaml-loader": "^1.2.2",
-    "next": "^12.2.5",
+    "next": "^12.3.1",
     "next-fonts": "^1.5.1",
     "next-transpile-modules": "^9.0.0",
     "next-yaml": "^1.0.1",
@@ -145,7 +145,7 @@
     "react-markdown": "^4.3.1",
     "react-twitter-embed": "^4.0.4",
     "react-youtube": "^7.14.0",
-    "sass": "^1.54.9",
+    "sass": "^1.55.0",
     "save-ukraine": "^0.18.1",
     "styled-components": "4.4.1"
   }
